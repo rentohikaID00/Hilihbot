@@ -2,8 +2,8 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "TOKEN_BOT_KAMU"
-API_KEY = "API_KEY_JASAOTP_KAMU"
+BOT_TOKEN = "8544556604:AAEGfme74pm84ZrFJEhlHHk-DCnhndsEhf4"
+API_KEY = "b47d4fd8e77051a3766505f7ade3d5b0"
 BASE_URL = "https://api.jasaotp.id/v2"
 
 # Cek Saldo
